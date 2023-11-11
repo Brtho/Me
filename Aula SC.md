@@ -6,3 +6,5 @@
 * usando comando git push
 
 * eu te amo
+
+* usando comando fetch
